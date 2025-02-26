@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "0ff19b76377c40df",
+    "type": "split",
+    "children": [
+      {
+        "id": "9227e0d42fe6fee9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b3a71d91c77a088",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Чух чух 16 (26.02).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Чух чух 16 (26.02)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "01f4697afb7df5a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3b963500569f877",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97dc656e539bcd5a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "0c6f036511c3d127",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4beabfc2511d6bad",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "4a2751f04005fdee",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c57692f035b2a3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba9def809fc462e8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Чух чух 12 (17.02).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Чух чух 12 (17.02)"
+            }
+          },
+          {
+            "id": "edcf67c0205cbff0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Чух чух 1 (22.01).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Чух чух 1 (22.01)"
+            }
+          },
+          {
+            "id": "616f5c41ac0da586",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "944bbfdc1f043e3c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Чух чух 12 (17.02).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Чух чух 12 (17.02)"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "0b3a71d91c77a088",
+  "lastOpenFiles": [
+    "Чух чух 16 (26.02).md",
+    "Чух чух 18 (03.03).md",
+    "Чух чух 17 (28.02).md",
+    "Чух чух 19 (05.03).md",
+    "Чух чух 26 (21.03).md",
+    "Чух чух 24 (17.03).md",
+    "Чух чух 25 (19.03).md",
+    "Чух чух 23 (14.03).md",
+    "Чух чух 22 (12.03).md",
+    "Чух чух 21 (10.03).md",
+    "Чух чух 20 (07.03).md",
+    "чухчухи.canvas",
+    "Чух чух 15 (24.02).md",
+    "Чух чух 13 (19.02).md",
+    "Чух чух 12 (17.02).md",
+    "Чух чух 14 (21.02).md",
+    "JSC_0hP9R_4.jpg",
+    "vbIP0Rqoyms.jpg",
+    "Pasted image 20250214183829.png",
+    "Pasted image 20250226210550.png",
+    "Pasted image 20250213170421.png",
+    "Pasted image 20250213170456.png",
+    "Pasted image 20250210183114.png",
+    "Pasted image 20250210185229.png",
+    "Pasted image 20250207132909.png",
+    "Pasted image 20250207132720.png",
+    "Чух чух 8 (07.02).md",
+    "Чух чух 6 (фотки).md",
+    "Чух чух 7 (05.02).md",
+    "Чух чух 4 (29.01).md",
+    "Чух чух 3 (27.01).md",
+    "Чух чух 2 (24.01).md",
+    "Чух чух 1 (22.01).md",
+    "Чух чух 6 (03.02).md",
+    "Чух чух 10 (12.02).md",
+    "Чух чух 9 (10.02).md"
+  ]
+}
